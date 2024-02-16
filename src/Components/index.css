@@ -1,0 +1,29 @@
+.like-image{
+    width: 20px;
+}
+.like-btn{
+    background: transparent;
+    outline: none;
+    border: 0px;
+    cursor: pointer;
+}
+li{
+    display: flex;
+    flex-direction: column;
+  /* justify-content: flex-start; */
+}
+
+.del-btn{
+    background: transparent;
+    outline: none;
+    border: 0px;
+    cursor: pointer;
+}
+.del-image{
+    width: 20px;
+
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+}
